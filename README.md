@@ -20,7 +20,7 @@
 
 ![A](https://github.com/ToriiX/Red-List-assessment-Analysis/assets/156717220/84b4dd68-d79e-40d7-bd30-4da4af6db2d6)
 
-Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish), C) BIVALVIA (class of molluscs), D) CYCADOPSIDA (Cyads), E) ARACHNIDA (Joint-Legged arthropods), F) AGARICOMYCETES (Class of Basidiomycota fungi)
+Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish), C) BIVALVIA (class of molluscs), D) CYCADOPSIDA (Cyads), E) ARACHNIDA (Joint-Legged arthropods), F) AGARICOMYCETES (Class of Basidiomycota fungi). Photo source: Creative Commons.
  
 
 
