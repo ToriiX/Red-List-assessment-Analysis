@@ -1,6 +1,7 @@
 # Red-List-assessment Analysis
 
 #### Data was downloaded from the IUCN Red List in January 2024. https://www.iucnredlist.org/en
+# Uploaded and Analysed with Python in Jupyter Notebook
 
 ## Research questions:
 1. Which classes have the greatest number of assessed species?
