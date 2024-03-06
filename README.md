@@ -43,4 +43,4 @@ Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish),
 9. BivalVia, a class of freshwater and marine molluscs had the greatest percentage of extinct species, closely followed by Snails and Slugs.  Classes of animals dominated the 10 classes with the greatest percentage of threatened species.  Of plants, the classes Bryopsida (Mosses)	and Cyads had the greatest percentage of threatened species. 
 10. No correlation was found between the number of threatened species in a class and the percentage of threatened species in a class. 
 
-
+See code and figures **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20Red%20List%20-%20An%20Analysis.ipynb**
