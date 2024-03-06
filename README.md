@@ -3,9 +3,15 @@
 #### Data was downloaded from the IUCN Red List in January 2024. https://www.iucnredlist.org/en
 #### Uploaded and Analysed with Python in Jupyter Notebook
 
+
+
+
+## Takeaways:
+## The IUCN Red List contains a biased representation of wildlife. Most of the included classes have few assessed species, while a few classes are vastly overrepresented compared to the rest. A large amount of the species included in the list (28%) have the status threatened. The high number of threatened species could be influenced by the likelihood of scientists being more likely to assess species assumed vulnerable/threatened for the Red List than those assumed to be of lesser concern. It should be noted that the classes of organisms which are the most threatened do not necessarily mirror the most studied/ those receiving the most attention. This should be taken into consideration in conservation measures.
+
 ## Research questions:
 1. Which classes have the greatest number of assessed species?
-2. What is the assessment status distribution of the classes with the most assessed species, and how many per cent of species are threatened in total??
+2. What is the assessment status distribution of the classes with the most assessed species, and how many per cent of species are threatened in total?
 3. Which classes have the least number of assessed species? 
 4. What is the distribution of  the total number of assessed species among the classes?
 5. Which classes have the greatest number of extinct species?
@@ -37,5 +43,4 @@ Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish),
 9. BivalVia, a class of freshwater and marine molluscs had the greatest percentage of extinct species, closely followed by Snails and Slugs.  Classes of animals dominated the 10 classes with the greatest percentage of threatened species.  Of plants, the classes Bryopsida (Mosses)	and Cyads had the greatest percentage of threatened species. 
 10. No correlation was found between the number of threatened species in a class and the percentage of threatened species in a class. 
 
-## Takeaways:
-## The IUCN Red List contains a biased representation of wildlife. Most of the included classes have few assessed species, while a few classes are vastly overrepresented compared to the rest. A large amount of the species included in the list (28%) have the status threatened. The high number of threatened species could be influenced by the likelihood of scientists being more likely to assess species assumed vulnerable/threatened for the Red List than those assumed to be of lesser concern. It should be noted that the classes of organisms which are the most threatened do not necessarily mirror the most studied/ those receiving the most attention. This should be taken into consideration in conservation measures.
+
