@@ -28,8 +28,8 @@
 
     
 
+![image](https://github.com/ToriiX/Red-List-assessment-Analysis/assets/156717220/cbdd7872-f0ce-4667-b4e1-b59450a83efe)
 
-![A](https://github.com/ToriiX/Red-List-assessment-Analysis/assets/156717220/84b4dd68-d79e-40d7-bd30-4da4af6db2d6)
 
 Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish), C) BIVALVIA (class of molluscs), D) CYCADOPSIDA (Cyads), E) ARACHNIDA (Joint-Legged arthropods), F) AGARICOMYCETES (Class of Basidiomycota fungi). Photo source: Creative Commons.
  
@@ -47,4 +47,4 @@ Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish),
 9. BivalVia, a class of freshwater and marine molluscs had the greatest percentage of extinct species, closely followed by Snails and Slugs.  Classes of animals dominated the 10 classes with the greatest percentage of threatened species.  Of plants, the classes Bryopsida (Mosses)	and Cyads had the greatest percentage of threatened species. 
 10. No correlation was found between the number of threatened species in a class and the percentage of threatened species in a class. 
 
-See code and figures **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The%20Red%20List%20-%20An%20Analysis.ipynb**
+See code and figures **https://github.com/ToriiX/Red-List-assessment-Analysis/blob/main/The_Red_List_Analysis.ipynb**
