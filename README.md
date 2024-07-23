@@ -36,9 +36,6 @@ Uploaded and Analysed with Python in Jupyter Notebook
 10. No correlation was found between the number of threatened species in a class and the percentage of threatened species in a class.
 
 
-### Conclusion:
-**A large amount of the species included in the IUSN Red-List (28%) have the status threatened, and on average around 30% of the species in a class are under threat. It can be argued that the high number of threatened species are influenced by the likelihood of scientists being more skewed towards assessing species assumed vulnerable/threatened for the Red List than those assumed to be of lesser concern. Many classes are in great need of more assessed species to be included in order to give a more accurate picture of the pressure facing the class/group, as there are too few included species to make accurate estimations of the group as a whole. When taking conservation actions on individual species, it should be noted that the Red List only covers a small percentage of all known species, and a large number of species in need of conservation are still not included. The assessed species are skewed towards certain classes - Most of the classes of organisms in the Red List have few assessed species, while a few classes are vastly overrepresented compared to the rest. When taking action for groups as a whole, it is important to note that the classes of organisms which are the most threatened do not necessarily mirror the most studied/ those receiving the most attention.**
-
 
    
 
@@ -95,8 +92,10 @@ Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish),
 
 
 
+<br>
 
-
+### Conclusion:
+**A large amount of the species included in the IUSN Red-List (28%) have the status threatened, and on average around 30% of the species in a class are under threat. It can be argued that the high number of threatened species are influenced by the likelihood of scientists being more skewed towards assessing species assumed vulnerable/threatened for the Red List than those assumed to be of lesser concern. Many classes are in great need of more assessed species to be included in order to give a more accurate picture of the pressure facing the class/group, as there are too few included species to make accurate estimations of the group as a whole. When taking conservation actions on individual species, it should be noted that the Red List only covers a small percentage of all known species, and a large number of species in need of conservation are still not included. The assessed species are skewed towards certain classes - Most of the classes of organisms in the Red List have few assessed species, while a few classes are vastly overrepresented compared to the rest. When taking action for groups as a whole, it is important to note that the classes of organisms which are the most threatened do not necessarily mirror the most studied/ those receiving the most attention.**
 
 
 
