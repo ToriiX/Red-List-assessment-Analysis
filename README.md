@@ -79,9 +79,7 @@ Figure: A) MAGNOLIOPSIDA (Magnolia Plants), B) ACTINOPTERYGII	(Ray-Finned fish),
 
 ![image](https://github.com/user-attachments/assets/9d030d9c-c4fb-4038-b991-6a7fe8ddf7f7)
 
-<br>
 
-![image](https://github.com/user-attachments/assets/f29ed970-19b1-45f2-8f2c-2064d0244b1a)
 
 <br>
 
