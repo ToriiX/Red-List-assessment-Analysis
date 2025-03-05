@@ -8,9 +8,9 @@ Uploaded and Analysed with Python in Jupyter Notebook
 
 
 ### Objective:
-#### In this project, I wanted to investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
+#### In this project I wanted to investigate the overall comprehensiveness of the Red List, and if there are considerations that need to be taken if using the list as a guideline for wildlife conservation actions and measures.
 
-### Research questions:
+### Questions:
 1. Which classes have the greatest number of assessed species?
 2. What is the assessment status distribution of the classes with the most assessed species, and how many percent of species are threatened in total?
 3. Which classes have the least number of assessed species?
@@ -18,7 +18,7 @@ Uploaded and Analysed with Python in Jupyter Notebook
 5. Which classes have the greatest number of extinct species?
 6. Which classes have the greatest number of threatened species?
 7. Is there a correlation between the number of threatened species in a class and the number of assessed species in a class?
-8. Which classes have the greatest percentage of threatened species, and what is the average percentage(mean) of threatened species in a class? (Only including classes with more than 100 assessed species)
+8. Which classes have the greatest percentage of threatened species, and what is the average percentage of threatened species in a class? (Only including classes with more than 100 assessed species)
 9. Which 10 classes have the greatest percentage of extinct species? (Only including classes with more than 100 assessed species)
 10. Is there a correlation between the number of threatened species and the percentage of threatened species in the classes?
 
